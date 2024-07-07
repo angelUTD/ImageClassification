@@ -1,4 +1,4 @@
-#Project description
+# Project description
 This project is meant to use different machine learning algorithms to be able to tell what scene the image is taken. It can be a Bedroom, Coast, or a Forest.
 
 
